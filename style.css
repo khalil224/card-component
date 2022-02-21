@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(14, 61, 61);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    width: 284px;
+    padding: 20px 20px 20px 20px;
+    border: 1px solid #BFBFBF;
+    background-color:rgb(56, 97, 99);
+    border-radius: 15px;
+    vertical-align: center;
+}
+.main-section{
+    min-height: 100vh; /* minimum height = screen height */
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image img{
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+
+}
+p{
+    color: rgb(171, 187, 231);
+}
+.ETH{
+    padding-right: 30px;
+    margin-right: 40px;
+    color: cyan;
+}
+
+.time{
+    color: rgb(186, 231, 245);
+    
+    
+}
+.fa-solid{
+    background-color: aquamarine
+}
+hr{
+    border:0.2px solid gray;
+}
+.creator img{
+    width: 15%;
+    margin-top: 5px;
+
+}
+.creator{
+    display: flex;
+    justify-content: space-around;
+}
+.white-color{
+    color:whitesmoke;
+}
+
